@@ -1,4 +1,4 @@
-package com.guo.method;
+package com.guo.test;
 
 import java.util.Scanner;
 
